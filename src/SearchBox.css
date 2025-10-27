@@ -1,0 +1,27 @@
+.SearchBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px; 
+}
+
+.SearchBox form {
+  display: flex;
+ 
+  align-items: center;
+  gap: 10px;
+
+}
+
+.SearchBox button {
+  padding: 8px 22px;
+  font-size: 1rem;
+  border-radius: 8px;
+  transition: 0.2s ease-in-out;
+  margin-top: 0px
+}
+
+.SearchBox button:hover {
+  transform: scale(1.05);
+}

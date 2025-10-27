@@ -1,0 +1,17 @@
+.WeatherApp {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  justify-content: center;
+  min-height: 100vh; 
+  text-align: center;
+  background-color: #f8fafc;
+  font-family: "Poppins", sans-serif;
+  padding: 20px;
+}
+
+.WeatherApp h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #1e293b;
+}
