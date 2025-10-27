@@ -3,14 +3,9 @@
 
 ![Weather Banner](https://img.shields.io/badge/Weather-ReactJS-blue?style=for-the-badge)
 ![API](https://img.shields.io/badge/OpenWeatherMap-API-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 ---
 
-## 🚀 Live Demo  
-👉 [**View Project**](https://your-live-link-here.com) *(Add your deployed link once hosted)*  
-
----
 
 ## 📖 About The Project  
 
